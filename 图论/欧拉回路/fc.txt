@@ -1,0 +1,3 @@
+正在比较文件 poj1386ans.txt 和 WORDSOUT.TXT
+FC: 找不到差异
+
